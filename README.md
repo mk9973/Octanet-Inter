@@ -1,1 +1,1 @@
-<header>Landing Page</header>
+<h1>Landing Page</h1>
